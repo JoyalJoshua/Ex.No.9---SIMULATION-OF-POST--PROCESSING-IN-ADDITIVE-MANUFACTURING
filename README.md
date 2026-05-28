@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2026-03-15 at 8 33 47 PM](https://github.com/user-attachments/assets/bd6e1dee-81ae-4d18-91fb-9da305159e8c)
 
-### Name:
-### Register Number:
+### Name:Joyal Joshua J
+### Register Number:212225040162
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
